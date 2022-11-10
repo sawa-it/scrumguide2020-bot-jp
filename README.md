@@ -5,8 +5,8 @@ Slackに通知する関係で改行は一部修正しております。
 
 動作環境はGAS
 
-■spreadsheet
+■spreadsheet<br>
 https://docs.google.com/spreadsheets/d/15eAJIanMLs-pwT5aWqxJeA-3j5Q4Pn8F-hqyAnxfYnQ/edit#gid=0
 
-■スクラムガイド
+■スクラムガイド<br>
 https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf
